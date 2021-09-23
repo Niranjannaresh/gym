@@ -1,0 +1,50 @@
+
+#bd{
+
+    background-color:khaki;
+}
+.header
+{height: 10vh;}
+
+.navbar-style{
+    box-shadow: 0 2px 5px khaki;
+    text-transform: uppercase;
+}
+.logo{
+    height: 70px;
+    padding: 5px;
+    margin-left: 10px;
+}
+#Hom{
+    text-align: center;
+    font-size: large;
+    width: 145%;
+}
+#about{
+    text-align: center;
+    font-size: large;
+    width: 145%;
+}
+
+#cont{
+    text-align: center;
+    font-size: large;
+    width: 145%;
+}
+.tex{
+    text-align: left;
+    font-size: xx-large;
+    text-decoration: none;
+}
+.tex2{
+    text-align: left;
+    font-size: large;
+    text-decoration: none;
+}
+#ui{
+    font-weight: bold;
+}
+.pic{
+    height: auto;
+    width: 75%;
+}
